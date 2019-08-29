@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/postMasVotados/static/css/main.4d0045a0.chunk.css",
+    "main.js": "/postMasVotados/static/js/main.334030a8.chunk.js",
+    "main.js.map": "/postMasVotados/static/js/main.334030a8.chunk.js.map",
+    "runtime~main.js": "/postMasVotados/static/js/runtime~main.298cf7d2.js",
+    "runtime~main.js.map": "/postMasVotados/static/js/runtime~main.298cf7d2.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/postMasVotados/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.03156084.chunk.js": "/postMasVotados/static/js/2.03156084.chunk.js",
+    "static/js/2.03156084.chunk.js.map": "/postMasVotados/static/js/2.03156084.chunk.js.map",
+    "index.html": "/postMasVotados/index.html",
+    "precache-manifest.e8f99e921dbcf7df8e81bc544103b525.js": "/postMasVotados/precache-manifest.e8f99e921dbcf7df8e81bc544103b525.js",
+    "service-worker.js": "/postMasVotados/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/postMasVotados/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.4d0045a0.chunk.css.map": "/postMasVotados/static/css/main.4d0045a0.chunk.css.map"
+  }
+}
